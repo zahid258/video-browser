@@ -123,7 +123,7 @@ const VideoGrid = ({ videos }: { videos: Video[] }) => {
             title={likedVideos.includes(video.id) ? "Unlike" : "Like"}
             aria-pressed={likedVideos.includes(video.id)}
             aria-label={likedVideos.includes(video.id) ? "Unlike this video" : "Like this video"}
-            tabIndex={0} // Ensure it's focusable via keyboard
+            tabIndex={0} 
           >
             ❤️
           </button>
