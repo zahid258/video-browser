@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 2,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 3,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 4,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 5,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 6,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 7,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 8,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 9,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 10,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 11,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 12,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 13,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 14,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 15,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 16,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 17,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 18,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 19,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 20,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 21,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  },
+  {
+    "id": 22,
+    "title": "Nature Documentary",
+    "genre": "Documentary",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/1.avif",
+    "description": "A beautiful journey through nature.",
+    "duration": "12:45",
+    "slug": "nature-documentary"
+  },
+  {
+    "id": 23,
+    "title": "Tech Innovations",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/2.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech-innovations"
+  },
+  {
+    "id": 24,
+    "title": "Tech",
+    "genre": "Technology",
+    "url": "https://www.youtube.com/watch?v=CoQfichK5Iw",
+    "thumbnail": "/videos/3.avif",
+    "description": "Discover the latest in tech.",
+    "duration": "10:30",
+    "slug": "tech"
+  }
+]
